@@ -2234,3 +2234,743 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.22-09.42.01:659][654]Cmd: MAP CHECK NOTIFYRESULTS
 [2020.10.22-09.42.01:660][654]MapCheck: New page: MotionControllerMap - 22 oct. 2020 à 13:42:01
 [2020.10.22-09.42.01:660][654]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,517ms to complete.
+[2020.10.22-09.42.28:469][661]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV7)
+[2020.10.22-09.42.29:188][727]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV6)
+[2020.10.22-09.42.31:047][944]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV8)
+[2020.10.22-09.42.34:639][367]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV6)
+[2020.10.22-09.42.35:969][521]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV9)
+[2020.10.22-09.42.37:927][750]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV11)
+[2020.10.22-09.42.39:348][915]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV10)
+[2020.10.22-09.42.43:439][397]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV9)
+[2020.10.22-09.42.47:111][830]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee)
+[2020.10.22-09.42.47:575][882]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee2)
+[2020.10.22-09.42.48:038][934]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee3)
+[2020.10.22-09.42.48:527][989]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee4)
+[2020.10.22-09.42.49:360][ 84]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee5)
+[2020.10.22-09.42.50:221][184]Cmd: EDIT COPY
+[2020.10.22-09.42.50:436][209]Cmd: EDIT PASTE
+[2020.10.22-09.42.53:942][621]Cmd: TRANSACTION UNDO
+[2020.10.22-09.42.53:942][621]LogEditorTransaction: Undo Move Actors
+[2020.10.22-09.42.54:857][699]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV12)
+[2020.10.22-09.42.55:500][772]Cmd: DELETE
+[2020.10.22-09.42.55:500][772]Cmd: ACTOR DELETE
+[2020.10.22-09.42.55:503][772]LogEditorActor: Deleted Actor: BP_FirsbeeV3_C
+[2020.10.22-09.42.55:520][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.22-09.42.55:528][772]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.10.22-09.42.57:225][974]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee10)
+[2020.10.22-09.42.57:797][ 38]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee9)
+[2020.10.22-09.42.58:495][118]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee8)
+[2020.10.22-09.42.58:994][174]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee7)
+[2020.10.22-09.42.59:496][230]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee11)
+[2020.10.22-09.43.01:285][439]Cmd: EDIT COPY
+[2020.10.22-09.43.01:695][488]Cmd: EDIT PASTE
+[2020.10.22-09.43.04:014][760]Cmd: EDIT COPY
+[2020.10.22-09.43.04:231][786]Cmd: EDIT PASTE
+[2020.10.22-09.43.13:041][791]LogActorFactory: Actor Factory created Cube
+[2020.10.22-09.43.14:919][995]LogActorFactory: Actor Factory created Cube
+[2020.10.22-09.43.45:788][579]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.10.22-09.43.45:789][579]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.10.22-09.43.45:789][579]LogMaterial: Display: 	Only transparent or postprocess materials can read from scene depth.
+[2020.10.22-09.43.53:893][429]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VirtualReality/Materials/orange.orange
+[2020.10.22-09.43.53:895][429]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.43.54:126][429]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.43.54:138][429]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.43.54:996][471]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.43.54:996][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.43.54:996][471]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.43.54:996][471]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.12:207][308]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.12:237][309]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.12:934][348]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.44.12:934][348]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.44.12:934][348]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.12:934][348]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.14:575][527]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.14:590][528]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.15:288][563]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.44.15:288][563]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.44.15:288][563]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.15:288][563]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.18:128][871]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.18:134][871]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.18:156][872]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.18:858][910]MaterialEditorStats: Base pass shader: 173 instructions
+[2020.10.22-09.44.18:858][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 247 instructions
+[2020.10.22-09.44.18:858][910]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.18:858][910]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.21:743][230]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant2Vector_0, compiling. 
+[2020.10.22-09.44.21:757][232]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.22-09.44.21:757][232]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.10.22-09.44.21:757][232]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.10.22-09.44.21:757][232]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.10.22-09.44.23:766][442]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.23:795][443]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.23:796][443]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.24:492][480]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.44.24:492][480]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.44.24:492][480]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.24:492][480]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.33:200][429]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.33:206][429]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.33:229][430]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.33:279][434]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.22-09.44.33:279][434]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.10.22-09.44.33:279][434]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.22-09.44.33:766][453]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.10.22-09.44.34:068][469]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.44.34:068][469]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.44.34:068][469]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.34:068][469]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.36:629][727]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.36:638][727]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.36:638][727]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.36:638][727]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.36:638][727]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.36:638][727]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.36:639][727]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.36:639][727]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.36:639][727]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.36:639][727]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.36:639][727]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.36:713][731]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.22-09.44.36:713][731]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.10.22-09.44.36:713][731]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.22-09.44.37:190][746]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2020.10.22-09.44.37:484][762]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.44.37:484][762]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.44.37:484][762]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.37:484][762]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.38:429][865]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.38:433][865]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.38:439][865]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.22-09.44.38:439][865]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.10.22-09.44.38:439][865]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.10.22-09.44.38:439][865]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.10.22-09.44.38:472][868]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.22-09.44.38:982][888]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2020.10.22-09.44.39:346][912]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.44.39:346][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.44.39:346][912]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.39:346][912]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.39:908][972]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.39:912][972]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.39:917][972]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.22-09.44.39:917][972]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.10.22-09.44.39:917][972]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.10.22-09.44.39:917][972]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.10.22-09.44.39:948][975]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.22-09.44.40:451][995]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2020.10.22-09.44.40:827][ 20]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.10.22-09.44.40:827][ 20]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.10.22-09.44.40:827][ 20]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.40:827][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.44:002][347]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.44:006][347]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.10.22-09.44.44:021][348]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.22-09.44.44:557][370]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2020.10.22-09.44.44:931][395]MaterialEditorStats: Base pass shader: 173 instructions
+[2020.10.22-09.44.44:931][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 247 instructions
+[2020.10.22-09.44.44:931][395]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.44:931][395]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.46:875][604]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.46:879][604]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.46:884][604]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.22-09.44.46:884][604]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.10.22-09.44.46:884][604]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.10.22-09.44.46:884][604]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.10.22-09.44.46:915][607]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.22-09.44.47:435][627]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2020.10.22-09.44.47:793][651]MaterialEditorStats: Base pass shader: 173 instructions
+[2020.10.22-09.44.47:793][651]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 247 instructions
+[2020.10.22-09.44.47:793][651]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.47:793][651]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.48:697][746]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.48:701][746]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2020.10.22-09.44.48:716][747]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2020.10.22-09.44.49:267][772]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2020.10.22-09.44.49:607][795]MaterialEditorStats: Base pass shader: 173 instructions
+[2020.10.22-09.44.49:607][795]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 247 instructions
+[2020.10.22-09.44.49:607][795]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.10.22-09.44.49:607][795]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.22-09.44.52:467][ 87]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.52:474][ 87]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.52:475][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.52:487][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.22-09.44.52:491][ 87]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.52:497][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.22-09.44.52:559][ 87]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2020.10.22-09.44.52:559][ 87]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2020.10.22-09.44.52:559][ 87]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2020.10.22-09.44.53:020][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2020.10.22-09.44.53:056][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2020.10.22-09.44.53:075][ 87]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2020.10.22-09.44.53:092][ 87]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2020.10.22-09.44.53:163][ 87]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2020.10.22-09.44.53:181][ 87]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2020.10.22-09.44.53:181][ 87]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2020.10.22-09.44.53:218][ 87]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2020.10.22-09.44.53:236][ 87]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.10.22-09.44.53:237][ 87]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2020.10.22-09.44.53:601][ 87]LogSlate: Window 'Message' being destroyed
+[2020.10.22-09.44.53:608][ 87]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/VirtualReality/Materials/orange.orange
+(Selecting 'No' will cause all changes to be lost!)
+[2020.10.22-09.44.54:097][ 87]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2020.10.22-09.44.54:127][ 87]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2020.10.22-09.44.54:132][ 87]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.44.54:167][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.22-09.44.54:187][ 87]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2020.10.22-09.44.54:187][ 87]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2020.10.22-09.44.54:188][ 87]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2020.10.22-09.44.54:188][ 87]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.22-09.44.54:747][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2020.10.22-09.44.54:747][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2020.10.22-09.44.54:747][ 87]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2020.10.22-09.44.55:020][ 87]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2020.10.22-09.44.55:031][ 87]TextureStreamingBuild: Display: Compiling optional shaders took 0.848 seconds.
+[2020.10.22-09.44.55:056][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.10.22-09.44.55:095][ 87]LogSlate: Window 'orange' being destroyed
+[2020.10.22-09.44.55:100][ 87]LogSlate: Window 'orange' being destroyed
+[2020.10.22-09.44.55:196][ 87]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-09.44.55:196][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.22-09.45.08:521][554]LogActorFactory: Actor Factory created Cube
+[2020.10.22-09.45.10:515][774]LogActorFactory: Actor Factory created Cube
+[2020.10.22-09.45.11:270][861]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2020.10.22-09.45.13:300][ 96]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2020.10.22-09.45.14:234][204]Cmd: EDIT COPY
+[2020.10.22-09.45.14:436][227]Cmd: EDIT PASTE
+[2020.10.22-09.45.18:943][707]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2020.10.22-09.45.19:489][754]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2020.10.22-09.45.20:238][839]Cmd: EDIT COPY
+[2020.10.22-09.45.20:242][839]Cmd: EDIT PASTE
+[2020.10.22-09.45.26:105][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2020.10.22-09.45.26:549][520]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2020.10.22-09.45.27:217][596]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2020.10.22-09.45.27:808][663]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2020.10.22-09.45.28:540][747]Cmd: EDIT COPY
+[2020.10.22-09.45.28:741][770]Cmd: EDIT PASTE
+[2020.10.22-09.45.33:386][231]Cmd: EDIT COPY
+[2020.10.22-09.45.33:586][246]Cmd: EDIT PASTE
+[2020.10.22-09.45.37:058][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2020.10.22-09.45.37:676][684]Cmd: DELETE
+[2020.10.22-09.45.37:676][684]Cmd: ACTOR DELETE
+[2020.10.22-09.45.37:679][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.37:695][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.10.22-09.45.37:705][684]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.10.22-09.45.37:953][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2020.10.22-09.45.38:033][719]Cmd: DELETE
+[2020.10.22-09.45.38:033][719]Cmd: ACTOR DELETE
+[2020.10.22-09.45.38:036][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.38:050][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.10.22-09.45.38:051][719]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.45.38:372][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2020.10.22-09.45.38:475][765]Cmd: DELETE
+[2020.10.22-09.45.38:475][765]Cmd: ACTOR DELETE
+[2020.10.22-09.45.38:478][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.38:492][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.45.38:493][765]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.45.38:789][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2020.10.22-09.45.38:859][804]Cmd: DELETE
+[2020.10.22-09.45.38:859][804]Cmd: ACTOR DELETE
+[2020.10.22-09.45.38:862][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.38:875][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.45.38:877][804]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.45.39:180][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2020.10.22-09.45.39:249][844]Cmd: DELETE
+[2020.10.22-09.45.39:249][844]Cmd: ACTOR DELETE
+[2020.10.22-09.45.39:252][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.39:264][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.45.39:266][844]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.45.40:076][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2020.10.22-09.45.40:216][952]Cmd: DELETE
+[2020.10.22-09.45.40:216][952]Cmd: ACTOR DELETE
+[2020.10.22-09.45.40:219][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.40:232][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.45.40:234][952]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.45.40:549][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.10.22-09.45.40:647][996]Cmd: DELETE
+[2020.10.22-09.45.40:648][996]Cmd: ACTOR DELETE
+[2020.10.22-09.45.40:651][996]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.40:664][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.22-09.45.40:666][996]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.45.40:954][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2020.10.22-09.45.41:034][ 35]Cmd: DELETE
+[2020.10.22-09.45.41:034][ 35]Cmd: ACTOR DELETE
+[2020.10.22-09.45.41:037][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.41:050][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.22-09.45.41:052][ 35]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.45.41:398][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.10.22-09.45.41:537][ 88]Cmd: DELETE
+[2020.10.22-09.45.41:537][ 88]Cmd: ACTOR DELETE
+[2020.10.22-09.45.41:540][ 88]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.41:553][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.45.41:554][ 88]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.45.41:977][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.10.22-09.45.42:083][146]Cmd: DELETE
+[2020.10.22-09.45.42:083][146]Cmd: ACTOR DELETE
+[2020.10.22-09.45.42:086][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.42:099][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.22-09.45.42:101][146]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.45.42:465][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2020.10.22-09.45.42:577][198]Cmd: DELETE
+[2020.10.22-09.45.42:577][198]Cmd: ACTOR DELETE
+[2020.10.22-09.45.42:580][198]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.42:593][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.45.42:594][198]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.45.43:590][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.10.22-09.45.43:786][336]Cmd: DELETE
+[2020.10.22-09.45.43:786][336]Cmd: ACTOR DELETE
+[2020.10.22-09.45.43:789][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.45.43:802][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.45.43:803][336]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.45.48:869][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.22-09.45.56:488][777]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV9)
+[2020.10.22-09.45.57:008][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.22-09.46.07:353][904]LogEditorViewport: Clicking on Actor (LMB): BP_FirsbeeV3_C (BP_FirsbeeV9)
+[2020.10.22-09.46.07:813][955]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FirsbeeV3_C (BP_FirsbeeV10)
+[2020.10.22-09.46.08:246][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FirsbeeV3_C (BP_FirsbeeV8)
+[2020.10.22-09.46.08:546][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FirsbeeV3_C (BP_FirsbeeV7)
+[2020.10.22-09.46.09:098][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FirsbeeV3_C (BP_FirsbeeV6)
+[2020.10.22-09.46.09:451][135]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FirsbeeV3_C (BP_FirsbeeV11)
+[2020.10.22-09.46.13:030][525]LogEditorViewport: Clicking on Actor (LMB): BP8PickupFrisbee_C (BP8PickupFrisbee21)
+[2020.10.22-09.46.13:738][604]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee17)
+[2020.10.22-09.46.14:197][655]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee18)
+[2020.10.22-09.46.14:724][714]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee19)
+[2020.10.22-09.46.16:644][936]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee20)
+[2020.10.22-09.46.20:512][391]LogEditorViewport: Clicking on Actor (LMB): BP8PickupFrisbee_C (BP8PickupFrisbee16)
+[2020.10.22-09.46.21:148][463]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee12)
+[2020.10.22-09.46.21:528][504]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee13)
+[2020.10.22-09.46.21:913][546]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee14)
+[2020.10.22-09.46.22:356][595]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee15)
+[2020.10.22-09.46.25:956][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee10)
+[2020.10.22-09.46.26:838][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.10.22-09.46.27:451][186]LogEditorViewport: Clicking on Actor (LMB): BP8PickupFrisbee_C (BP8PickupFrisbee10)
+[2020.10.22-09.46.28:349][289]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee9)
+[2020.10.22-09.46.28:868][347]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee8)
+[2020.10.22-09.46.29:391][405]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee7)
+[2020.10.22-09.46.29:915][463]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee11)
+[2020.10.22-09.46.33:016][825]LogEditorViewport: Clicking on Actor (LMB): BP8PickupFrisbee_C (BP8PickupFrisbee5)
+[2020.10.22-09.46.33:539][883]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee4)
+[2020.10.22-09.46.34:860][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee2)
+[2020.10.22-09.46.35:446][101]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee)
+[2020.10.22-09.46.36:265][195]LogEditorViewport: Clicking on Actor (CTRL LMB): BP8PickupFrisbee_C (BP8PickupFrisbee3)
+[2020.10.22-09.46.42:648][946]MapCheck: New page: Map Check
+[2020.10.22-09.46.42:660][946]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.22-09.46.42:663][946]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.22-09.46.42:793][946]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=false
+[2020.10.22-09.46.42:808][946]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.10.22-09.46.42:808][946]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.10.22-09.46.42:808][946]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.10.22-09.46.42:808][946]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.10.22-09.46.42:812][946]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2020.10.22-09.46.42:831][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.10.22-09.46.42:841][946]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.22-09.46.42:868][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.10.22-09.46.42:868][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.10.22-09.46.42:868][946]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 50
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 49
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 46
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 45
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 44
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 42
+[2020.10.22-09.46.42:893][946]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 41
+[2020.10.22-09.46.42:893][946]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.22-09.46.42:894][946]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.22-09.46.42:896][946]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.22-09.46.42:897][946]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 48
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 47
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 46
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 45
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 44
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 43
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 42
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 41
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 40
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 39
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 38
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 37
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 33
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 31
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 29
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 27
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 22
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2020.10.22-09.46.44:608][946]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2020.10.22-09.46.44:608][946]TextureStreamingBuild: Display: Compiling optional shaders took 1.766 seconds.
+[2020.10.22-09.46.44:613][946]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2020.10.22-09.46.44:616][946]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2020.10.22-09.46.44:629][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.22-09.46.44:631][946]LightingResults: New page: Lighting Build - 22 oct. 2020 à 13:46:44
+[2020.10.22-09.46.44:637][946]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.22-09.46.44:640][946]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.22-09.46.44:640][946]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.22-09.46.44:641][946]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.22-09.46.44:641][946]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15960
+[2020.10.22-09.46.49:152][946]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.22-09.46.49:152][946]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.22-09.46.49:152][946]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.22-09.46.49:152][946]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.22-09.46.49:152][946]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.22-09.46.49:279][946]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.22-09.46.49:279][946]MapCheck: New page: MotionControllerMap - 22 oct. 2020 à 13:46:49
+[2020.10.22-09.46.49:279][946]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.10.22-09.46.49:280][946]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,593ms to complete.
+[2020.10.22-09.46.49:281][946]LogEditorBuildUtils: Build time 0:06
+[2020.10.22-09.46.49:319][946]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer orange, compiling. 
+[2020.10.22-09.46.49:321][946]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer orange, compiling. 
+[2020.10.22-09.46.49:703][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2020.10.22-09.46.49:703][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2020.10.22-09.46.49:703][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2020.10.22-09.46.49:703][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2020.10.22-09.46.49:859][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.10.22-09.46.53:357][218]Job is a success!
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:          1: 9.9% covering 12.5% of volume
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:          2: 88.9% covering 1.8% of volume
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.22-09.46.53:452][219]LogVolumetricLightmapImport:          MotionControllerMap 			 81 bricks 	 100.0% (Persistent Level)
+[2020.10.22-09.46.53:821][219]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.10.22-09.46.53:821][219]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.10.22-09.46.53:821][219]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.10.22-09.46.53:821][219]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.10.22-09.46.53:821][219]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.10.22-09.46.53:821][219]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.10.22-09.46.53:821][219]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.10.22-09.46.53:885][219]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X256)
+[2020.10.22-09.46.53:885][219]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X512)
+[2020.10.22-09.46.53:886][219]LogStaticLightingSystem: MotionControllerMap_BuiltData storing lightmap data for 49 meshes in 3 LightmapResourceClusters (16.3 Meshes per cluster).
+[2020.10.22-09.46.53:892][219]LogMaterial: Display: Material /Game/VirtualReality/Materials/orange.orange needed to have new flag set bUsedWithStaticLighting !
+[2020.10.22-09.46.53:895][219]Lightmass on DESKTOP-PT34OQE: 3.67 sec total, 111 ms importing, 18 ms setup, 1.03 sec photons, 2.47 sec processing, 0 ms extra exporting [84/84 mappings]. Threads: 37.0 sec total, 7.94 sec processing.
+[2020.10.22-09.46.53:895][219]LogMaterial: Display: Missing cached shader map for material orange, compiling. 
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2020.10.22-09.46.53:933][219]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2020.10.22-09.46.53:936][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.22-09.46.53:972][219]LogStaticLightingSystem: Illumination: 9.29 sec (220 ms encoding lightmaps, 91 ms encoding shadowmaps)
+[2020.10.22-09.46.53:972][219]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2020.10.22-09.46.53:972][219]LogStaticLightingSystem: Shadowmap texture memory: 4.0 MB (1.3 MB streaming, 2.7 MB non-streaming), 3 textures
+[2020.10.22-09.46.55:160][219]DumpUnbuiltLightIteractions
+[2020.10.22-09.46.55:160][219]Lights with unbuilt interactions: 0
+[2020.10.22-09.46.55:160][219]
+[2020.10.22-09.46.55:160][219]Primitives with unbuilt interactions: 0
+[2020.10.22-09.46.55:483][220]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.22-09.46.55:483][220]MapCheck: New page: MotionControllerMap - 22 oct. 2020 à 13:46:55
+[2020.10.22-09.46.55:483][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,596ms to complete.
+[2020.10.22-09.46.56:044][271]LogSlate: Window 'Message Log' being destroyed
+[2020.10.22-09.46.56:057][271]LogSlate: Window 'Message Log' being destroyed
+[2020.10.22-09.46.58:860][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube22)
+[2020.10.22-09.46.59:111][617]Cmd: DELETE
+[2020.10.22-09.46.59:111][617]Cmd: ACTOR DELETE
+[2020.10.22-09.46.59:114][617]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.46.59:129][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.10.22-09.46.59:131][617]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.10.22-09.46.59:585][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.10.22-09.46.59:700][681]Cmd: DELETE
+[2020.10.22-09.46.59:700][681]Cmd: ACTOR DELETE
+[2020.10.22-09.46.59:703][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.22-09.46.59:717][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.46.59:718][681]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.47.00:286][744]Cmd: DELETE
+[2020.10.22-09.47.00:286][744]Cmd: ACTOR DELETE
+[2020.10.22-09.47.00:289][744]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-09.47.00:303][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.10.22-09.47.00:311][744]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.10.22-09.47.03:440][118]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.03:440][118]LogEditorTransaction: Undo Delete Actors
+[2020.10.22-09.47.04:448][203]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.04:448][203]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.22-09.47.04:843][248]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.04:843][248]LogEditorTransaction: Undo Delete Actors
+[2020.10.22-09.47.05:309][299]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.05:309][299]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.22-09.47.05:703][345]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.05:703][345]LogEditorTransaction: Undo Delete Actors
+[2020.10.22-09.47.13:349][229]LogEditorViewport: Clicking on Actor (LMB): cube2-0_C (cube2-0)
+[2020.10.22-09.47.13:740][266]Cmd: DELETE
+[2020.10.22-09.47.13:740][266]Cmd: ACTOR DELETE
+[2020.10.22-09.47.13:743][266]LogEditorActor: Deleted Actor: cube2-0_C
+[2020.10.22-09.47.13:758][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.10.22-09.47.13:762][266]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.10.22-09.47.14:044][299]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube23)
+[2020.10.22-09.47.14:169][309]Cmd: DELETE
+[2020.10.22-09.47.14:169][309]Cmd: ACTOR DELETE
+[2020.10.22-09.47.14:172][309]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.14:186][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.47.14:186][309]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.47.14:451][340]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube24)
+[2020.10.22-09.47.14:546][347]Cmd: DELETE
+[2020.10.22-09.47.14:546][347]Cmd: ACTOR DELETE
+[2020.10.22-09.47.14:549][347]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.14:561][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.47.14:562][347]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.14:793][374]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube28)
+[2020.10.22-09.47.14:955][389]Cmd: DELETE
+[2020.10.22-09.47.14:955][389]Cmd: ACTOR DELETE
+[2020.10.22-09.47.14:958][389]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.14:970][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.14:971][389]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.10.22-09.47.15:202][416]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube32)
+[2020.10.22-09.47.15:367][431]Cmd: DELETE
+[2020.10.22-09.47.15:367][431]Cmd: ACTOR DELETE
+[2020.10.22-09.47.15:370][431]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.15:384][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.47.15:386][431]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.47.15:758][475]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube29)
+[2020.10.22-09.47.15:868][484]Cmd: DELETE
+[2020.10.22-09.47.15:868][484]Cmd: ACTOR DELETE
+[2020.10.22-09.47.15:871][484]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.15:883][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.15:884][484]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.16:157][516]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube25)
+[2020.10.22-09.47.16:252][523]Cmd: DELETE
+[2020.10.22-09.47.16:252][523]Cmd: ACTOR DELETE
+[2020.10.22-09.47.16:255][523]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.16:268][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.16:269][523]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2020.10.22-09.47.16:582][560]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube27)
+[2020.10.22-09.47.16:683][568]Cmd: DELETE
+[2020.10.22-09.47.16:683][568]Cmd: ACTOR DELETE
+[2020.10.22-09.47.16:686][568]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.16:701][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.47.16:702][568]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.10.22-09.47.16:916][593]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube31)
+[2020.10.22-09.47.17:041][604]Cmd: DELETE
+[2020.10.22-09.47.17:041][604]Cmd: ACTOR DELETE
+[2020.10.22-09.47.17:044][604]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.17:057][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.17:058][604]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.17:304][633]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube34)
+[2020.10.22-09.47.17:424][643]Cmd: DELETE
+[2020.10.22-09.47.17:424][643]Cmd: ACTOR DELETE
+[2020.10.22-09.47.17:427][643]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.17:441][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.22-09.47.17:442][643]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.17:771][682]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube36)
+[2020.10.22-09.47.17:930][697]Cmd: DELETE
+[2020.10.22-09.47.17:930][697]Cmd: ACTOR DELETE
+[2020.10.22-09.47.17:933][697]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.17:946][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.17:946][697]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.18:209][728]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2020.10.22-09.47.18:316][737]Cmd: DELETE
+[2020.10.22-09.47.18:316][737]Cmd: ACTOR DELETE
+[2020.10.22-09.47.18:319][737]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.18:332][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.18:333][737]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.18:569][765]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.10.22-09.47.18:686][775]Cmd: DELETE
+[2020.10.22-09.47.18:686][775]Cmd: ACTOR DELETE
+[2020.10.22-09.47.18:689][775]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.18:702][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.18:703][775]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.18:973][807]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube33)
+[2020.10.22-09.47.19:065][814]Cmd: DELETE
+[2020.10.22-09.47.19:065][814]Cmd: ACTOR DELETE
+[2020.10.22-09.47.19:068][814]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.19:081][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.10.22-09.47.19:082][814]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.19:367][848]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube30)
+[2020.10.22-09.47.19:491][859]Cmd: DELETE
+[2020.10.22-09.47.19:491][859]Cmd: ACTOR DELETE
+[2020.10.22-09.47.19:494][859]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.19:507][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.10.22-09.47.19:508][859]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.19:736][886]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube26)
+[2020.10.22-09.47.19:866][898]Cmd: DELETE
+[2020.10.22-09.47.19:866][898]Cmd: ACTOR DELETE
+[2020.10.22-09.47.19:869][898]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.19:882][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.19:883][898]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.20:285][946]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube38)
+[2020.10.22-09.47.20:765][  0]Cmd: DELETE
+[2020.10.22-09.47.20:765][  0]Cmd: ACTOR DELETE
+[2020.10.22-09.47.20:768][  0]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.20:781][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.22-09.47.20:782][  0]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.21:009][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube39)
+[2020.10.22-09.47.21:080][ 32]Cmd: DELETE
+[2020.10.22-09.47.21:080][ 32]Cmd: ACTOR DELETE
+[2020.10.22-09.47.21:082][ 32]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.21:096][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.22-09.47.21:097][ 32]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.21:431][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube40)
+[2020.10.22-09.47.21:560][ 84]Cmd: DELETE
+[2020.10.22-09.47.21:560][ 84]Cmd: ACTOR DELETE
+[2020.10.22-09.47.21:563][ 84]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2020.10.22-09.47.21:577][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.22-09.47.21:578][ 84]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.10.22-09.47.21:987][130]Cmd: DELETE
+[2020.10.22-09.47.21:987][130]Cmd: ACTOR DELETE
+[2020.10.22-09.47.21:990][130]LogEditorActor: Deleted Actor: Brush
+[2020.10.22-09.47.22:003][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.22-09.47.22:012][130]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.10.22-09.47.25:202][501]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.25:202][501]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.22-09.47.25:611][525]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.25:611][525]LogEditorTransaction: Undo Select Brush Surface
+[2020.10.22-09.47.26:086][577]Cmd: TRANSACTION UNDO
+[2020.10.22-09.47.26:087][577]LogEditorTransaction: Undo Delete Actors
+[2020.10.22-09.47.59:512][559]LogEditorViewport: Clicking on Actor (LMB): BP8PickupFrisbee_C (BP8PickupFrisbee5)
+[2020.10.22-09.48.12:841][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Geometry/Frebe/BP8PickupFrisbee.BP8PickupFrisbee
+[2020.10.22-09.48.23:734][ 38]BlueprintLog: New page: Compile BP8PickupFrisbee
+[2020.10.22-09.48.23:804][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.10.22-09.48.25:986][267]LogSlate: Window 'BP8PickupFrisbee' being destroyed
+[2020.10.22-09.48.25:991][267]LogSlate: Window 'BP8PickupFrisbee' being destroyed
+[2020.10.22-09.48.26:003][267]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.22-09.48.26:003][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
